@@ -7,14 +7,13 @@
 
 # Table Of contents
 
-| S.No | Content | Page No. |
-| --- | --- | --- |
-| 2. | Introduction | 2 |
-| 3. | Solution | 3-5 |
-| 4. | Other Ideas & Challenges we can face | 8-9 |
-| 5. | Social Impact & Other Components | 10 |
-| 6. | Sources | 15 |
-| 7. | Circuit Design | 16 |
+| S.No | Content
+| --- | --- |
+| 1. | Introduction
+| 2. | Solution
+| 3. | Other Ideas & Challenges we can face
+| 4. | Social Impact & Other Components
+| 5. | Sources
 
 # Project Idea
 Description: A broken/cut wire can cause multiple problems to life. If cut during a storm and falls in a puddle of water, any living thing that comes in contact with it, its life is in danger. Every Year more than 14000 people, and many animals and birds are dying due to this in the world. Whenever any animal, birds, humans touches the Phase and Neutral wires they get electrocuted
